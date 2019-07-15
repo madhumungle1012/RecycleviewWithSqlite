@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#D32F2F</color>
+    <color name="colorPrimaryDark">#D32F2F</color>
+    <color name="colorAccent">#D23C48</color>
+    <!--<color name="colorAccent">#FFF</color>-->
+
+    <color name="colorPrimaryPix">#075e54</color>
+    <color name="colorPrimaryLightPix">#80075e54</color>
+    <!--
+        <color name="colorAccent">#35454d</color>#3FAAC6
+    -->
+
+
+
+    <color name="button_pressed">#ff8a00</color>
+    <color name="button_focused">#ff8a00</color>
+    <color name="button_default">#1c76bb</color>
+    <color name="appbg">#D23C48</color>
+
+    <color name="middleBG">#7295A6</color>
+    <color name="darkBG">#465B66</color>
+    <color name="whiteBG">#B0BEC5</color>
+    <color name="tomato">#D32F2F</color>
+    <color name="white">#ffffff</color>
+    <color name="freshgreen">#00E676</color>
+    <color name="transparent">#00000000</color>
+    <color name="dark_bg">#35454d</color>
+    <color name="black">#000</color>
+    <color name="material_light_primary_text">#DE000000</color>
+    <color name="material_light_hint_text">#61000000</color>
+    <color name="material_light_active_icon">#8A000000</color>
+    <color name="material_ripple_light">#1F000000</color>
+    <color name="violet">#4A148C</color>
+    <color name="orange">#d67601</color>
+    <color name="leafgreen">#004d40</color>
+    <color name="date_custom_item_background">#ff3b3b3b</color>
+    <color name="date_custom_item_day">#fffcfcfc</color>
+    <color name="date_custom_item_month_name">#fffcfcfc</color>
+    <color name="date_custom_item_day_name">#fffcfcfc</color>
+    <color name="date_custom_item_unselected_indicator">#ff5c5c5c</color>
+    <color name="date_custom_item_selected_indicator">#ffff7709</color>
+    <color name="silver">#F0ECEB</color>#C0C0C0
+    <color name="silver_">#C0C0C0</color>
+
+    <color name="pending">#FFC504</color>
+    <color name="approved">#ca559927</color>
+    <color name="decline">#FA0000</color>
+</resources>
